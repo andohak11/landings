@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dayofbonus0002.life/sitemap.xml
