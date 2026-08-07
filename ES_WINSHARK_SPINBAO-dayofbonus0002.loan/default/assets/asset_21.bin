@@ -1,0 +1,83 @@
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="utf-8">
+		<title>Winshark</title>
+		<base href="/">
+
+		<meta name="viewport" content="height=device-height,
+                      width=device-width, initial-scale=1.0,
+                      minimum-scale=1.0, maximum-scale=1.0,
+                      user-scalable=no, target-densitydpi=device-dpi">
+		<meta name="description" content="">
+		<meta property="og:title" content="Winshark">
+		<meta property="og:description" content="Explore Winshark: Dive into popular slots, roulette, and poker. Join today for a special bonus and cash out your wins easily!">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://winshark.com/">
+		<meta property="og:site_name" content="Winshark">
+		<meta property="og:image" content="https://winshark.com/assets/images/logo-bg.png">
+		<meta property="og:image:width" content="329">
+		<meta property="og:image:height" content="414">
+		<meta name="twitter:card" content="summary_large_image">
+
+		<link rel="icon" type="image/x-icon" href="favicon.ico">
+		<link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+		<link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="theme-color" content="#12151E">
+		<meta name="msapplication-TileImage" content="assets/icons/icon-384x384.png">
+
+		<link rel="canonical" href="https://winshark.com/">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+		<link rel="preconnect" href="https://cdn.softswiss.net">
+		<link rel="manifest" href="manifest.webmanifest">
+		<script type="application/ld+json">
+			[
+				{
+					"@context": "http://www.schema.org",
+					"@type": "Organization",
+					"name": "Winshark",
+					"alternateName": ["Winshark", "Winshark.com"],
+					"legalName": "Winshark",
+					"description": "Explore Winshark: Dive into popular slots, roulette, and poker. Join today for a special bonus and cash out your wins easily!",
+					"logo": "https://winshark.com/assets/images/logo-bg.png",
+					"url": "https://winshark.com/en",
+					"contactPoint": [
+						{
+							"@type": "ContactPoint",
+							"email": "support@winshark.com",
+							"contactType": "customer service"
+						}
+					],
+					"sameAs": ["https://t.me/winshark"],
+					"foundingDate": "2023"
+				}
+			]
+		</script>
+		<meta name="google-site-verification" content="Lj5ZhkYIg8LQUpUMwd_ao1TJLrEf4O8NJruzg5PtiWw">
+	<style>@import"https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,500;1,500;1,900&family=Fira+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700;1,900&display=swap";*,:before,:after{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}:before,:after{--tw-content:""}html{line-height:1.5;-webkit-text-size-adjust:100%;tab-size:4;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,"Apple Color Emoji","Segoe UI Emoji",Segoe UI Symbol,"Noto Color Emoji";font-feature-settings:normal;font-variation-settings:normal}body{margin:0;line-height:inherit}html{font-size:16px;-webkit-text-size-adjust:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:Fira Sans,system-ui,sans-serif;--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}html,body{height:100%}body{--tw-bg-opacity:1;background-color:rgb(18 21 30 / var(--tw-bg-opacity))}app-root{position:relative;z-index:0;display:flex;flex:1 1 auto;flex-direction:column}html,body{scrollbar-color:#464958 transparent;scrollbar-width:thin}html::-webkit-scrollbar,body::-webkit-scrollbar{height:.125rem;width:.125rem}html::-webkit-scrollbar-track,body::-webkit-scrollbar-track{background-color:transparent}html::-webkit-scrollbar-thumb,body::-webkit-scrollbar-thumb{border-radius:.25rem;--tw-bg-opacity:1;background-color:rgb(70 73 88 / var(--tw-bg-opacity))}*,:before,:after{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / .5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }</style><link rel="stylesheet" href="styles.1343e5708bb17d66.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.1343e5708bb17d66.css"></noscript></head>
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe
+				src="https://www.googletagmanager.com/ns.html?id=GTM-N8MXM6MW"
+				height="0"
+				width="0"
+				style="display: none; visibility: hidden"
+			></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<app-root>
+			<!--  <div class="splash-screen-first">-->
+			<!--    <div class="splash-block">-->
+			<!--      <img src="/assets/images/hero.png" alt="Winshark" width="261" height="270" class="splash-logo"-->
+			<!--           fetchpriority="highest">-->
+			<!--      <p class="percent">0%</p>-->
+			<!--    </div>-->
+			<!--  </div>-->
+		</app-root>
+		<noscript>Please enable JavaScript to continue using this application.</noscript>
+	<script src="runtime.cd397fe96ed64b0e.js" type="module"></script><script src="polyfills.d1593e2080a2a1c4.js" type="module"></script><script src="main.a2cdb3261d228f5e.js" type="module"></script>
+
+</body></html>
